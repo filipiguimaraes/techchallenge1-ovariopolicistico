@@ -43,3 +43,5 @@ pip install -r requirements.txt
 fastapi dev main.py 
 ```
 
+# Link do Video
+[YouTube](https://www.youtube.com/watch?v=I9v4A9IVqvc)
