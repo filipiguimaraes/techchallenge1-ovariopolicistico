@@ -17,7 +17,7 @@ Este projeto foi desenvolvido em Python e utiliza um conjunto de dependências l
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/vichelly/techchallenge1-ovariopolicistico.git
+git clone https://github.com/filipiguimaraes/techchallenge1-ovariopolicistico.git
 cd techchallenge1-ovariopolicistico
 ```
 
